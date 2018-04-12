@@ -9,3 +9,5 @@
 -- cada vez que termina una mano se muestran las cartas restantes.
 -- cuando el dealer se queda sin cartas se muestra el o los ganadores con el total de puntos que hicieron y su/s mano/s ganador/as.
 -- se persiste el/los ganadores en la BD, con su nombre, su puntaje y las cartas que tenian.
+
+Adentro de la carpeta SRC se encuentra el script de la BD y el diagrama UML.
